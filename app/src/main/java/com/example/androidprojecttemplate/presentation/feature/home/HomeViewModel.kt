@@ -29,6 +29,11 @@ class HomeViewModel(private val findRepoByKeywordUseCase: FindRepoByKeywordUseCa
 
     fun search(query: String) {
         job?.cancel()
+        if (query.isBlank()) {
+            _queryResultFlow.value = Result.Initial
+            return
+        }
+
         job = viewModelScope.launch(Dispatchers.Default) {
             try {
                 _queryResultFlow.value = Result.InProgress
