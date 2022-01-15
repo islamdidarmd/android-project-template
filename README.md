@@ -2,8 +2,7 @@
 A template project with basic folder structure to start a new Android Project
 
 ## Demo
-<img src="https://github.com/islamdidarmd/android-project-template/blob/master/s1.png" width="200" height="400" />
-<img src="https://github.com/islamdidarmd/android-project-template/blob/master/s2.jpg" width="200" height="400" />
+<img src="https://github.com/islamdidarmd/android-project-template/blob/master/s1.png" width="200" height="400" /> <img src="https://github.com/islamdidarmd/android-project-template/blob/master/s2.jpg" width="200" height="400" />
 
 
 ## Functionality
