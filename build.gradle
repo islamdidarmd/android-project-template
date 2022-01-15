@@ -9,7 +9,7 @@ buildscript {
         koin_version= "3.1.4"
         retrofit_version= "2.9.0"
         okhttp_version= "4.9.3"
-        room_version = "2.4.0-rc01"
+        room_version = "2.4.0"
     }
     repositories {
         google()
