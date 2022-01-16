@@ -1,4 +1,4 @@
-package com.example.androidprojecttemplate
+package com.example.androidprojecttemplate.di
 
 import com.example.androidprojecttemplate.domain.usecase.FindRepoByKeywordUseCase
 import io.mockk.mockk
