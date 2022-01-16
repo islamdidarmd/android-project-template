@@ -16,6 +16,7 @@ Project is written by following `Clean Code Architecture`
 2. `app/src/main/java/com.example.androidprojecttemplate/domain` contains the `domain` layer
 3. `app/src/main/java/com.example.androidprojecttemplate/presentation` contains the `presentation` layer
 4. `app/src/main/java/com.example.androidprojecttemplate/di` contains the `modules` for `dependency injection`
+5. `app/src/test/java/com.example.androidprojecttemplat` contsins the `unit tests`
 
 ## Technology Used
 1. `Kotlin` programming language to write the app
@@ -23,6 +24,7 @@ Project is written by following `Clean Code Architecture`
 3. `Koin` for `Dependency Injection`
 4. `Retrofit` and `OkHttp` for networking
 5. `Moshi` for serialization
+6. `Mockk` for mocking in tests
 
 ## Getting Started
 1. Download or Clone the repository
